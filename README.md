@@ -3,6 +3,8 @@ Simpson Characters Classification using LittleVGG
 Context
 As a big Simpsons fan, I have watched a lot (and still watching) of The Simpson episodes -multiple times each- over the years. I wanted to build a neural network which can recognize characters. Feel free to check and recommend my Medium post Part 1 on a classification model and Part 2 on a detection model (Faster R-CNN) about this dataset and what I am doing with it. You can also find the related GitHub repo here .
 
+
+![get](https://assets.foxdcg.com/dpp-uploaded/images/the-simpsons/keyart1.jpg)
 Content
 I am still building this dataset (labeling pictures), I will upload new versions of this dataset. Please check the files there are descriptions and explanations.
 

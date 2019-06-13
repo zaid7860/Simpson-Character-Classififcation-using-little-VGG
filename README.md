@@ -5,6 +5,8 @@ As a big Simpsons fan, I have watched a lot (and still watching) of The Simpson 
 
 
 ![get](https://assets.foxdcg.com/dpp-uploaded/images/the-simpsons/keyart1.jpg)
+
+![hit](LittleVGG.png)
 Content
 I am still building this dataset (labeling pictures), I will upload new versions of this dataset. Please check the files there are descriptions and explanations.
 
